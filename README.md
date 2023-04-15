@@ -1,4 +1,6 @@
-👋Hi there! I'm a geology engineer based in Kaş, Antalya, and I'm currently focusing on developing my career in the software industry. I have experience in sales management in the fair sector and currently own a Cafe&Bar&Store in Kaş. Also I'm a scuba diving instructor as well. 
+👋Hi there! I have a Bachelor's Degree on Geological Engineering, living in Kaş, Antalya,Turkey. I have experience in sales management in exhibition sector and currently own a Cafe&Bar&Store in Kaş. Also I'm a scuba diving instructor as well.
+
+Now I'm currently focusing on developing my career in the software industry.
 
 👀I'm learning front-end and React technologies for software development.
 
